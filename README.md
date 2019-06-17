@@ -8,6 +8,7 @@ For this Hands-on event we've prepared two tracks. Both are well documented and 
 ## Functional IT Track
 - Go to [eu.luis.ai](https://eu.luis.ai/applications) and login (or create an account)
 - Follow the [Quickstart: Use prebuilt Home automation app](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-create-app) guide to get started
+- Done? Create your own LUIS app via [these steps](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-create-app).
 
 ## Developer Track
 
