@@ -1,4 +1,9 @@
-# Sogeti Bot Builders: Microsoft Bot Framework
-*Vianen, June 18th 2019*
+# Microsoft AI School - Tutorial Fix
+*For course: Quickly creating a basic bot*
 
-For this Hands-on event we've prepared two tracks. Both are well documented and the organisers of the event can assist when you run into trouble.
+### Before you start
+Make sure that you add the *Bot Framework v4 SDK Templates for Visual Studio* extension to Visual Studio. 
+1. Within Visual Studio, go to *Manage Extensions* and search online for bot.
+2. *Bot Framework v4 SDK Templates for Visual Studio* should be on top of the list. Install this extension.
+
+
