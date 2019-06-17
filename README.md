@@ -19,7 +19,7 @@ For this Hands-on event we've prepared two tracks. Both are well documented and 
 
 ### Getting started
 1. Follow the [Quickly creating a basic bot](https://aischool.microsoft.com/en-us/conversational/learning-paths/building-an-intelligent-bot/quickly-creating-a-basic-bot) module (30 minutes)
-note: there are some issues with this module, check out [this page](QuicklyCreatingBasicBot-Fixes.md) for fixes.
+*note: there are some issues with this module, check out [this page](QuicklyCreatingBasicBot-Fixes.md) for fixes.*
 2. Chat with your bot to check if it's working
 3. Try adding a welcome message with `suggested actions` to your bot [[example](https://github.com/microsoft/BotBuilder-Samples/blob/master/samples/csharp_dotnetcore/08.suggested-actions/Bots/SuggestedActionsBot.cs)]
 4. Make your bot more intelligent by adding following one of these modules:
