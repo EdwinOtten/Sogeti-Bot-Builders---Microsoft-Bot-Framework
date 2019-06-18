@@ -9,7 +9,7 @@ Instead of following the steps described on AI School, do the following:
 
 1. Open the EchoBot project in Visual Studio (you created that earlier)
 2. Go to EchoBot.cs
-3. Add the following property to the EchoBot class:
+3. Add the following property to the EchoBot class: 
 ```c#
 private readonly QnAMaker QnAMaker = new QnAMaker(new QnAMakerEndpoint()
 {
@@ -18,7 +18,9 @@ private readonly QnAMaker QnAMaker = new QnAMaker(new QnAMakerEndpoint()
     Host = "YOUR_QNAMAKER_HOST_HERE",
 });
 ```
-3. Replace the code in the method `OnMessageActivityAsync` with:
+*Replace the values above with the ones you find in your [qnamaker.ai](https://www.qnamaker.ai/) (after publishing).*
+
+4. Replace the code in the method `OnMessageActivityAsync` with:
 ```c#
 // Check QnA Maker model
 var response = await QnAMaker.GetAnswersAsync(turnContext);
