@@ -1,5 +1,5 @@
 # Microsoft AI School - Tutorial Fix
-*For course: Quickly creating a basic bot*
+*For course: [Quickly creating a basic bot](https://aischool.microsoft.com/en-us/conversational/learning-paths/building-an-intelligent-bot/quickly-creating-a-basic-bot)*
 
 ### Before you start
 Make sure that you add the *Bot Framework v4 SDK Templates for Visual Studio* extension to Visual Studio.  
